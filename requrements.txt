@@ -5,5 +5,9 @@ Color
 Vibrent
 dark mode
 video call
-camera system 
+camera system  
+
+payments option 
+send money
+receive money
 
