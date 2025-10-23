@@ -10,4 +10,7 @@ camera system
 payments option 
 send money
 receive money
+train ticket
+bus ticket
+air ticket
 
