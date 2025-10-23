@@ -3,3 +3,5 @@ Emoji
 Typing option
 Color
 Vibrent
+dark mode
+video call
